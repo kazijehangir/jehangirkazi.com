@@ -45,7 +45,7 @@ post_date: 2020-05-27 05:36:24
 <!-- /wp:heading -->
 
 <!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://linkedin.com/in/Kazi Jehangir","service":"linkedin"} /-->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://linkedin.com/in/kazijehangir","service":"linkedin"} /-->
 
 <!-- wp:social-link {"url":"https://github.com/kazijehangir","service":"github"} /-->
 
