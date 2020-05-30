@@ -9,14 +9,14 @@ published: true
 post_date: 2020-05-27 05:36:24
 ---
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading -->
-<h2>I’m a Software Engineer at Google, living in Tokyo, and enjoy cooking and sometimes riding my bike.</h2>
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:heading {"level":4} -->
+<h4>I’m a Software Engineer at Google, living in Tokyo, and enjoy cooking and sometimes riding my bike.</h4>
 <!-- /wp:heading --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>I love deadlines. I like the whooshing sound they make as they go by.</p><cite>Douglas Adams</cite></blockquote>
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:quote {"className":"is-style-large"} -->
+<blockquote class="wp-block-quote is-style-large"><p>I love deadlines. I like the whooshing sound they make as they go by.</p><cite>Douglas Adams</cite></blockquote>
 <!-- /wp:quote --></div></div>
 <!-- /wp:group -->
 
