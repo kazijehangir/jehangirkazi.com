@@ -57,5 +57,5 @@ post_date: 2020-05-27 05:36:24
 
 <!-- wp:social-link {"service":"instagram"} /-->
 
-<!-- wp:social-link {"service":"medium"} /--></ul>
+<!-- wp:social-link {"url":"https://medium.com/kazi.jehangir","service":"medium"} /--></ul>
 <!-- /wp:social-links -->
