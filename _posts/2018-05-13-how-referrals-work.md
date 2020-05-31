@@ -1,13 +1,13 @@
 ---
 ID: 60
-post_title: How referrals work
+post_title: How Referrals Work
 author: jehangir
 post_excerpt: ""
 layout: post
 permalink: >
   https://jehangirkazi.com/2018/05/13/how-referrals-work/
 published: true
-post_date: 2018-05-13 09:33:00
+post_date: 2018-05-13 18:33:00
 ---
 <!-- wp:paragraph -->
 <p>So I felt there is justified confusion regarding how referrals work in the top tech companies and I wanted to clear it up a bit.</p>
