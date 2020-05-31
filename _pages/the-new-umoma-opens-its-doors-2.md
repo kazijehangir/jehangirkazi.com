@@ -37,7 +37,11 @@ post_date: 2020-05-27 05:36:24
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Recent Posts</h4>
+<h4>Recenthttps:/<br></h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4><a href="https://jehangirkazi.com/ramblings/">Recent Posts</a></h4>
 <!-- /wp:heading -->
 
 <!-- wp:latest-posts {"categories":"6","postsToShow":4,"displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":150,"featuredImageSizeHeight":150} /-->
@@ -47,7 +51,7 @@ post_date: 2020-05-27 05:36:24
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Recent projects</h4>
+<h4><a href="https://jehangirkazi.com/projects/">Recent projects</a></h4>
 <!-- /wp:heading -->
 
 <!-- wp:latest-posts {"categories":"7","postsToShow":4,"displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":150,"featuredImageSizeHeight":150} /-->
