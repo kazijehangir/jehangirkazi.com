@@ -28,7 +28,7 @@ post_date: 2020-05-27 05:36:24
 <h4>Recent Posts</h4>
 <!-- /wp:heading -->
 
-<!-- wp:latest-posts {"categories":"6","postsToShow":10,"displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"center"} /-->
+<!-- wp:latest-posts {"categories":"6","postsToShow":10,"displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":175,"featuredImageSizeHeight":175} /-->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
@@ -38,7 +38,7 @@ post_date: 2020-05-27 05:36:24
 <h4>Recent projects</h4>
 <!-- /wp:heading -->
 
-<!-- wp:latest-posts {"categories":"7","displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"center"} /-->
+<!-- wp:latest-posts {"categories":"7","displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":175,"featuredImageSizeHeight":175} /-->
 
 <!-- wp:paragraph -->
 <p></p>
