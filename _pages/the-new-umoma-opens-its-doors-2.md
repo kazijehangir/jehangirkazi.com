@@ -37,10 +37,6 @@ post_date: 2020-05-27 05:36:24
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Recenthttps:/<br></h4>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"level":4} -->
 <h4><a href="https://jehangirkazi.com/ramblings/">Recent Posts</a></h4>
 <!-- /wp:heading -->
 
