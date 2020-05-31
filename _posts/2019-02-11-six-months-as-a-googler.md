@@ -1,13 +1,13 @@
 ---
 ID: 66
-post_title: Six months as a Googler
+post_title: Six Months As A Googler
 author: jehangir
 post_excerpt: ""
 layout: post
 permalink: >
   https://jehangirkazi.com/2019/02/11/six-months-as-a-googler/
 published: true
-post_date: 2019-02-11 09:44:23
+post_date: 2019-02-11 18:44:23
 ---
 Yes, it has been a long time since I wrote anything here.
 
