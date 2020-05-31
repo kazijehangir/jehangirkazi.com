@@ -1,8 +1,8 @@
 ---
 ID: 64
 post_title: >
-  What path should LUMS CS undergrads
-  follow
+  What Path Should LUMS CS UnderGrads
+  Follow
 author: jehangir
 post_excerpt: ""
 layout: post
