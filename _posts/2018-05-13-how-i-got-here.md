@@ -61,8 +61,8 @@ post_date: 2018-05-13 06:16:00
 <p>I started working with Dr. Fareed Zaffar on different research projects. The fact that I had not taken Networks formally and the only useful skills I had were from Advanced Programming, affected the type of work I was able to do in each project. In retrospective, this was easily one of the most productive summers I have spent (iftaari at PDC was extremely bad however).</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":118,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://jehangirkazi.com/wp-content/uploads/2020/05/img-20160624-wa0008_original-576x1024.jpg" alt="" class="wp-image-118"/></figure>
+<!-- wp:image {"id":118,"width":432,"height":768,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://jehangirkazi.com/wp-content/uploads/2020/05/img-20160624-wa0008_original-576x1024.jpg" alt="" class="wp-image-118" width="432" height="768"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
