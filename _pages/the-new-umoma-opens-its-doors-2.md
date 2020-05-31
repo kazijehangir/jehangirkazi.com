@@ -44,8 +44,8 @@ post_date: 2020-05-27 05:36:24
 <h4>Find Me Online</h4>
 <!-- /wp:heading -->
 
-<!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://linkedin.com/in/kazijehangir","service":"linkedin"} /-->
+<!-- wp:social-links {"className":"is-style-logos-only"} -->
+<ul class="wp-block-social-links is-style-logos-only"><!-- wp:social-link {"url":"https://linkedin.com/in/kazijehangir","service":"linkedin"} /-->
 
 <!-- wp:social-link {"url":"https://github.com/kazijehangir","service":"github"} /-->
 
