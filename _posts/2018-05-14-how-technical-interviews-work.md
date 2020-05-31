@@ -1,6 +1,6 @@
 ---
 ID: 62
-post_title: How technical interviews work
+post_title: How Technical Interviews Work
 author: jehangir
 post_excerpt: ""
 layout: post
