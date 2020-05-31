@@ -1,13 +1,13 @@
 ---
 ID: 53
-post_title: How I got here
+post_title: How I Got Here
 author: jehangir
 post_excerpt: ""
 layout: post
 permalink: >
   https://jehangirkazi.com/2018/05/13/how-i-got-here/
 published: true
-post_date: 2018-05-13 06:16:00
+post_date: 2018-05-13 15:16:00
 ---
 <!-- wp:paragraph -->
 <p>I have been meaning to write this for a long long time. I never got around to it because of lack of motivation though. Last week I was asked to speak at a session at LUMS on applying to grad schools and other university advice. It was after I had repeated what I had done to get to this point multiple times that I realized that it would be vastly more helpful to people if I actually wrote this down.</p>
