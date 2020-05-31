@@ -61,6 +61,10 @@ post_date: 2018-05-13 06:16:00
 <p>I started working with Dr. Fareed Zaffar on different research projects. The fact that I had not taken Networks formally and the only useful skills I had were from Advanced Programming, affected the type of work I was able to do in each project. In retrospective, this was easily one of the most productive summers I have spent (iftaari at PDC was extremely bad however).</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":118,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://jehangirkazi.com/wp-content/uploads/2020/05/img-20160624-wa0008_original-576x1024.jpg" alt="" class="wp-image-118"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p>This was also the time when I worked on Typosquatting, the project which was to later get published in Infocom 2018 [link to paper]. I also was the Teaching Assistant for CS300 in the Summer semester.</p>
 <!-- /wp:paragraph -->
@@ -72,6 +76,10 @@ post_date: 2018-05-13 06:16:00
 <!-- wp:paragraph -->
 <p>Having seen what kind of work I had done, Dr. Fareed and Dr. Junaid advised me to start preparing for technical interviews at top industry companies. Dr. Fareed especially got multiple mock interviews scheduled and asked many of his friends to put in a referral for me in the companies (take a look at my side post on how referrals work at top tech companies). I applied, and got rejected from multiple places, including Microsoft and Facebook.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":119,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://jehangirkazi.com/wp-content/uploads/2020/05/20160721_202157_original-1024x768.jpg" alt="" class="wp-image-119"/></figure>
+<!-- /wp:image -->
 
 <!-- wp:list -->
 <ul><li>Spring 2017 - Junior year.</li></ul>
@@ -89,6 +97,10 @@ post_date: 2018-05-13 06:16:00
 <p>I left everything and prepared for the technical interviews at this point. There were two rounds of technical interviews over phone/video call. The day before my second interview, I gave four mock interviews. At the end I was accepted for a summer internship at Google Japan for 2017. After a quick team matching phase, I was placed into the Geo (Google Maps) Local Discovery team.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":115,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://jehangirkazi.com/wp-content/uploads/2020/05/img_20200218_153257_original-1024x768.jpg" alt="" class="wp-image-115"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:list -->
 <ul><li>Summer 2017 - Google Internship.</li></ul>
 <!-- /wp:list -->
@@ -104,3 +116,7 @@ post_date: 2018-05-13 06:16:00
 <!-- wp:paragraph -->
 <p>I got a job offer from Google Japan around December 2017. I will be joining the Tokyo office in August 2018.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":127,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://jehangirkazi.com/wp-content/uploads/2020/05/img_20170925_215906_original-1024x768.jpg" alt="" class="wp-image-127"/></figure>
+<!-- /wp:image -->
