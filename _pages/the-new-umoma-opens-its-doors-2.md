@@ -40,22 +40,6 @@ post_date: 2020-05-27 05:36:24
 
 <!-- wp:latest-posts {"categories":"7","displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"center","featuredImageSizeSlug":"medium"} /-->
 
-<!-- wp:heading {"level":4} -->
-<h4>Find Me Online</h4>
-<!-- /wp:heading -->
-
-<!-- wp:social-links {"className":"is-style-logos-only"} -->
-<ul class="wp-block-social-links is-style-logos-only"><!-- wp:social-link {"url":"https://linkedin.com/in/kazijehangir","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://github.com/kazijehangir","service":"github"} /-->
-
-<!-- wp:social-link {"url":"mailto:jehangir@kazi.page","service":"mail"} /-->
-
-<!-- wp:social-link {"url":"https://Twitter.com/Jehangir.kazi","service":"twitter"} /-->
-
-<!-- wp:social-link {"url":"Facebook.com/Jehangir.kazi","service":"facebook"} /-->
-
-<!-- wp:social-link {"service":"instagram"} /-->
-
-<!-- wp:social-link {"url":"https://medium.com/kazi.jehangir","service":"medium"} /--></ul>
-<!-- /wp:social-links -->
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
