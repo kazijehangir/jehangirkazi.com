@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Hi! I’m Jehangir Kazi
+post_title: Home is where the rump rests
 author: jehangir
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ published: true
 post_date: 2020-05-27 05:36:24
 ---
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns {"verticalAlignment":null} -->
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":4} -->
 <h4>I’m a Software Engineer at Google, living in Tokyo, and enjoy cooking and sometimes riding my bike.</h4>
