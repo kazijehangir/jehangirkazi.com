@@ -38,7 +38,7 @@ post_date: 2020-05-27 05:36:24
 <h4>Recent projects</h4>
 <!-- /wp:heading -->
 
-<!-- wp:latest-posts {"categories":"7","displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"center","featuredImageSizeSlug":"medium"} /-->
+<!-- wp:latest-posts {"categories":"7","displayPostContent":true,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"center"} /-->
 
 <!-- wp:paragraph -->
 <p></p>
