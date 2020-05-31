@@ -12,7 +12,7 @@ post_date: 2020-05-27 05:36:24
 <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":4} -->
-<h4>I’m a Software Engineer at Google, tinkering with tech and discovering cooking in Tokyo.<br>Will someday set out on my bike to conquer the world.</h4>
+<h4>I’m a Software Engineer at Google, tinkering with tech and discovering new things to cook in Tokyo.<br>Will someday set out on my bike to conquer the world.</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
