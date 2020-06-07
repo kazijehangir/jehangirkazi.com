@@ -16,4 +16,6 @@ post_date: 2020-05-31 12:30:36
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:latest-posts {"categories":"6","postsToShow":10,"displayPostContent":true,"excerptLength":65,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"left","featuredImageSizeWidth":150,"featuredImageSizeHeight":150} /-->
+<!-- wp:paragraph -->
+<p>[pt_view id="a0f6d47tcw"]</p>
+<!-- /wp:paragraph -->
