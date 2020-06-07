@@ -8,4 +8,6 @@ permalink: https://jehangirkazi.com/projects/
 published: true
 post_date: 2020-05-31 12:31:27
 ---
-<!-- wp:latest-posts {"categories":"7","postsToShow":10,"displayPostContent":true,"excerptLength":65,"displayPostDate":true,"postLayout":"grid","columns":2,"displayFeaturedImage":true,"featuredImageAlign":"left"} /-->
+<!-- wp:paragraph -->
+<p>[pt_view id="329ca1be9v"]</p>
+<!-- /wp:paragraph -->
